@@ -1,0 +1,15 @@
+@keyframes wpcrp-spinner {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes wpcrp-spinner {
+    to {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+.wpclever_settings_page .select2-container {
+    width: 100% !important;
+}

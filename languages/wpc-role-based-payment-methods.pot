@@ -1,0 +1,97 @@
+# Copyright (C) 2024 WPClever
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Role-Based Payment Methods for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-role-based-payment-methods\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-04T23:23:39+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-role-based-payment-methods\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Role-Based Payment Methods for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "WPC Role-Based Payment Methods allow the limitation of available Payment Gateways for each user role individually."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-role-based-payment-methods.php:119
+msgid "WPC Role-Based Payment Methods"
+msgstr ""
+
+#: wpc-role-based-payment-methods.php:119
+msgid "Premium"
+msgstr ""
+
+#. translators: stars
+#: wpc-role-based-payment-methods.php:122
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-role-based-payment-methods.php:124
+msgid "Reviews"
+msgstr ""
+
+#: wpc-role-based-payment-methods.php:125
+msgid "Changelog"
+msgstr ""
+
+#: wpc-role-based-payment-methods.php:126
+msgid "Discussion"
+msgstr ""
+
+#: wpc-role-based-payment-methods.php:131
+msgid "Settings updated."
+msgstr ""
+
+#: wpc-role-based-payment-methods.php:137
+#: wpc-role-based-payment-methods.php:273
+msgid "Settings"
+msgstr ""
+
+#: wpc-role-based-payment-methods.php:140
+msgid "Essential Kit"
+msgstr ""
+
+#: wpc-role-based-payment-methods.php:152
+msgid "Payment Methods"
+msgstr ""
+
+#: wpc-role-based-payment-methods.php:173
+msgid "Choose the role(s) that are allowed to use this payment method."
+msgstr ""
+
+#: wpc-role-based-payment-methods.php:177
+msgid "All"
+msgstr ""
+
+#: wpc-role-based-payment-methods.php:178
+msgid "User (logged in)"
+msgstr ""
+
+#: wpc-role-based-payment-methods.php:179
+msgid "Guest (not logged in)"
+msgstr ""
+
+#: wpc-role-based-payment-methods.php:289
+msgid "Community support"
+msgstr ""
